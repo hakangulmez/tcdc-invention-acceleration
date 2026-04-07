@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+linearmodels
+jupyter
+nbformat
+requests
+openpyxl
+xlrd
+pingouin
