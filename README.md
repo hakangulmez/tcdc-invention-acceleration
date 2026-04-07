@@ -1,7 +1,7 @@
 # Inter-Invention Interval & Technology Stock
 
 [![TCDC Framework](https://img.shields.io/badge/TCDC-G%C3%BClmez%202026-blue)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Research Question
 Does accumulated technology stock (T_{t-1}) accelerate the arrival of new General Purpose Technologies?
