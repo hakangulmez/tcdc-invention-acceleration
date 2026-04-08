@@ -9,23 +9,17 @@ id,name,year,omega_shift_description,is_prehistoric,source,interval_years,log_in
 7,Writing & Record Keeping,-3200,External memory — enables complex administration and trade,False,Lipsey et al. 2005,300.0,5.703782474656201,False,False,8
 8,Iron Smelting,-1200,"Harder tools, cheaper than bronze; democratizes metalworking",False,Lipsey et al. 2005,2000.0,7.600902459542082,False,False,9
 10,Waterwheel,-300,Continuous mechanical power from water flow,False,Lipsey et al. 2005,900.0,6.802394763324311,False,False,10
-25,Mechanical Clock,1300,"Precise time measurement — enables coordination, scheduling, navigation, scientific observation",False,Lipsey et al. 2005,1600.0,7.3777589082278725,False,False,11
-27,Gunpowder & Cannon (European),1320,"Chemical energy release for propulsion — transforms warfare, mining, construction; enables new material extraction",False,Lipsey et al. 2005,20.0,2.995732273553991,False,False,12
-26,Double-Entry Bookkeeping & Early Banking,1340,"Systematic financial accounting + credit creation — enables capital allocation, long-distance trade finance, risk distribution",False,"Gülmez 2026 (Medici banking, Banca Monte dei Paschi 1472, Bills of exchange)",20.0,2.995732273553991,False,False,13
-12,Printing Press (Gutenberg),1450,Mass reproduction of information — scientific revolution enabler,False,Bresnahan & Trajtenberg 1995,110.0,4.700480365792417,True,False,14
-11,Three-Masted Sailing Ship,1450,Transoceanic navigation — global trade and knowledge networks,False,Bresnahan & Trajtenberg 1995,0.0,,True,False,15
-29,Blast Furnace & Iron Casting,1450,"High-temperature iron production at scale — enables cheap structural materials, machine parts, weaponry",False,Smil (2005) Creating the 20th Century,0.0,,True,False,16
-28,Crop Rotation & Scientific Agriculture,1700,"Systematic soil management — enables sustained agricultural surplus, population growth, labor release for industrialization",False,Mokyr (1990) The Lever of Riches,250.0,5.521460917862246,True,False,17
-13,Steam Engine (Watt),1769,"Portable, scalable mechanical power from fossil fuel",False,Jovanovic & Rousseau 2005,69.0,4.23410650459726,True,True,18
-14,Factory System,1780,Division of labor + machines = industrial production,False,Lipsey et al. 2005,11.0,2.3978952727983707,True,True,19
-15,Railways,1825,Fast freight + passenger transport; integrates national markets,False,Jovanovic & Rousseau 2005,45.0,3.8066624897703196,True,True,20
-30,Telegraph (Long-distance communication),1837,"Near-instantaneous long-distance communication — eliminates information lag in trade, military coordination, journalism",False,Jovanovic & Rousseau 2005,12.0,2.4849066497880004,True,True,21
-16,Steel Production (Bessemer),1856,"Cheap, strong structural material for infrastructure at scale",False,Lipsey et al. 2005,19.0,2.9444389791664403,True,True,22
-17,Commercial Electricity,1882,"Clean, transmissible, flexible energy; electric motors",False,Jovanovic & Rousseau 2005,26.0,3.258096538021482,True,True,23
-18,Internal Combustion Engine,1885,"Portable mobile power; automobile, aviation",False,Jovanovic & Rousseau 2005,3.0,1.0986122886681098,True,True,24
-20,Electronics/Vacuum Tube,1906,"Amplification and signal processing — radio, early computing",False,Lipsey et al. 2005,21.0,3.044522437723423,True,True,25
-19,Mass Production (Ford),1908,Moving assembly line; consumer goods at population scale,False,Lipsey et al. 2005,2.0,0.6931471805599453,True,True,26
-21,Transistor/Semiconductor,1947,Miniaturized switching; basis of all digital technology,False,Jovanovic & Rousseau 2005,39.0,3.6635616461296463,True,True,27
-22,Personal Computer (Intel 4004),1971,Programmable universal machine — information processing at scale,False,Jovanovic & Rousseau 2005,24.0,3.1780538303479458,True,True,28
-23,Internet/WWW,1991,Global information network — eliminates distance in communication,False,Bresnahan & Trajtenberg 1995,20.0,2.995732273553991,True,True,29
-24,Generative AI (Transformer),2017,"Cognitive task automation — language, reasoning, generation",False,Gülmez 2026,26.0,3.258096538021482,True,True,30
+12,Printing Press (Gutenberg),1450,Mass reproduction of information — scientific revolution enabler,False,Bresnahan & Trajtenberg 1995,1750.0,7.4673710669175595,True,False,11
+11,Three-Masted Sailing Ship,1450,Transoceanic navigation — global trade and knowledge networks,False,Bresnahan & Trajtenberg 1995,0.0,,True,False,12
+13,Steam Engine (Watt),1769,"Portable, scalable mechanical power from fossil fuel",False,Jovanovic & Rousseau 2005,319.0,5.765191102784844,True,True,13
+14,Factory System,1780,Division of labor + machines = industrial production,False,Lipsey et al. 2005,11.0,2.3978952727983707,True,True,14
+15,Railways,1825,Fast freight + passenger transport; integrates national markets,False,Jovanovic & Rousseau 2005,45.0,3.8066624897703196,True,True,15
+16,Steel Production (Bessemer),1856,"Cheap, strong structural material for infrastructure at scale",False,Lipsey et al. 2005,31.0,3.4339872044851463,True,True,16
+17,Commercial Electricity,1882,"Clean, transmissible, flexible energy; electric motors",False,Jovanovic & Rousseau 2005,26.0,3.258096538021482,True,True,17
+18,Internal Combustion Engine,1885,"Portable mobile power; automobile, aviation",False,Jovanovic & Rousseau 2005,3.0,1.0986122886681098,True,True,18
+20,Electronics/Vacuum Tube,1906,"Amplification and signal processing — radio, early computing",False,Lipsey et al. 2005,21.0,3.044522437723423,True,True,19
+19,Mass Production (Ford),1908,Moving assembly line; consumer goods at population scale,False,Lipsey et al. 2005,2.0,0.6931471805599453,True,True,20
+21,Transistor/Semiconductor,1947,Miniaturized switching; basis of all digital technology,False,Jovanovic & Rousseau 2005,39.0,3.6635616461296463,True,True,21
+22,Personal Computer (Intel 4004),1971,Programmable universal machine — information processing at scale,False,Jovanovic & Rousseau 2005,24.0,3.1780538303479458,True,True,22
+23,Internet/WWW,1991,Global information network — eliminates distance in communication,False,Bresnahan & Trajtenberg 1995,20.0,2.995732273553991,True,True,23
+24,Generative AI (Transformer),2017,"Cognitive task automation — language, reasoning, generation",False,Gülmez 2026,26.0,3.258096538021482,True,True,24
